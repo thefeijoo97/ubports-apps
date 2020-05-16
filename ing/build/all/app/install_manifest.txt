@@ -1,0 +1,5 @@
+//manifest.json
+//ing.apparmor
+//qml/Main.qml
+//assets/qt-logo.png
+//ing.desktop

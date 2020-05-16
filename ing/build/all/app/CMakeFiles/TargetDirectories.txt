@@ -1,0 +1,15 @@
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/rebuild_cache.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/edit_cache.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/install.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/list_install_components.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/ing.desktop.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/ing_FILES.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/install/local.dir
+/home/kevin/ubports-apps/ing/build/all/app/CMakeFiles/install/strip.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/install.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/list_install_components.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/rebuild_cache.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/ing.thefeijoo97.pot.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/install/local.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/install/strip.dir
+/home/kevin/ubports-apps/ing/build/all/app/po/CMakeFiles/edit_cache.dir

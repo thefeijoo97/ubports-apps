@@ -1,7 +1,7 @@
 {
     "name": "ing.thefeijoo97",
     "description": "Di hola a la simplicidAPP O lo que es lo mismo: a lo fácil y simple de llevar todo tu banco en una sola app. Siempre en tu mano. Para que empieces a gestionar tu dinero con la sencillez y transparencia que tanto nos gusta.",
-    "architecture": "@CLICK_ARCH@",
+    "architecture": "all",
     "title": "ING",
     "hooks": {
         "ing": {
