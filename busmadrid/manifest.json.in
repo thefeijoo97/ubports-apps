@@ -1,0 +1,15 @@
+{
+    "name": "busmadrid.thefeijoo97",
+    "description": "Consulta en tiempo real las llegadas de EMT, Interurbanos, Cercanías, Metro y ML",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Tu transporte Madrid",
+    "hooks": {
+        "busmadrid": {
+            "apparmor": "busmadrid.apparmor",
+            "desktop":  "busmadrid.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Kevin Fernández <juankfernandez@protonmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}
