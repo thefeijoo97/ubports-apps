@@ -1,0 +1,15 @@
+{
+    "name": "n26.thefeijoo97",
+    "description": "Una cuenta bancaria gratis en tu móvil",
+    "architecture": "@CLICK_ARCH@",
+    "title": "N26 -- The Mobile Bank",
+    "hooks": {
+        "n26": {
+            "apparmor": "n26.apparmor",
+            "desktop":  "n26.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Kevin Fernández <juankfernandez@protonmail.com>",
+    "framework" : "ubuntu-sdk-16.04"
+}

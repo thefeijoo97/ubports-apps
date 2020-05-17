@@ -48,17 +48,21 @@
 **
 ****************************************************************************/
 
-import QtQuick 2.9
-import QtQuick.Controls 2.2
-import QtWebEngine 1.7
+#include <QGuiApplication>
+#include <QQmlApplicationEngine>
+#include <QQuickStyle>
 
-ApplicationWindow {
-    width: 1024
-    height: 750
-    visible: true
+int main(int argc, char *argv[])
+{
+    QGuiApplication::setOrganizationName("bbva.alefnode");
+    QGuiApplication::setApplicationName("bbva.alefnode");
+    QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 
-    WebEngineView {
-        anchors.fill: parent
-        url: "https://web.tuenti.com/"
-    }
+    QGuiApplication app(argc, argv);
+    QQuickStyle::setStyle("Suru");
+
+    QQmlApplicationEngine engine;
+    engine.load(QUrl(QStringLiteral("qrc:/qml/Main.qml")));
+
+    return app.exec();
 }

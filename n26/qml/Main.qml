@@ -59,6 +59,6 @@ ApplicationWindow {
 
     WebEngineView {
         anchors.fill: parent
-        url: "https://web.tuenti.com/"
+        url: "https://app.n26.com/"
     }
 }

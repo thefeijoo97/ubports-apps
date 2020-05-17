@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the tuenti.thefeijoo97 package.
+# This file is distributed under the same license as the n26.thefeijoo97 package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: tuenti.thefeijoo97\n"
+"Project-Id-Version: n26.thefeijoo97\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-17 09:18+0000\n"
+"POT-Creation-Date: 2020-05-17 10:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: tuenti.desktop.in.h:1
-msgid "Tuenti"
+#: n26.desktop.in.h:1
+msgid "N26 -- The Mobile Bank"
 msgstr ""
